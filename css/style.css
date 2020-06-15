@@ -44,6 +44,10 @@ header {
     }
     }
 
+  .container{
+    margin-top: 100px}
+  
+
 .article-images {
     width: 100%;
 }
